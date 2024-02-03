@@ -78,7 +78,7 @@ ${data.tests}
 If you have any questions, please feel free to reach out to me.
 
 ## Contact
-* GitHub: [${data.github}](
+* GitHub: [${data.github}](${data.github})
 * Email: [${data.email}](mailto:${data.email})
 `;
 }
