@@ -7,8 +7,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Video Walkthrough](#video-walkthrough)
-- [Contributors](#contributors)
 - [Screenshots](#screenshots)
+- [Contact](#contact)
 
 ## Description
 
@@ -26,4 +26,11 @@ Make sure to have node.js installed. clone repository and add to folder. open in
 
 click the link below to acces the video
 
-link: 
+link:
+
+## Screenshots
+
+## Contact
+
+Github: Crent99
+Email: Crent0699@gmail.com
