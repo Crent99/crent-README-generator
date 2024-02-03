@@ -24,9 +24,9 @@ Make sure to have node.js installed. clone repository and add to folder. open in
 
 ## Video Walkthrough
 
-click the link below to acces the video
+click the link below to access the video
 
-link:
+link: https://www.youtube.com/watch?v=imp4GcaEMdw
 
 ## Screenshots
 
