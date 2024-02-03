@@ -62,21 +62,24 @@ const questions = [
 ];
 
 // function to write README file
-
-function writeToFile(fileName, data) {
+function writeToFile(fileName, data
+) {
     fs.writeFile(fileName, data, (err) =>
-    err ? console.error(err) : console.log('Success! Your README file has been generated!')
+        err ? console.error(err) : console.log('README.md created successfully!')
     );
 }
 
 // function to initialize program
 function init() {
     inquirer.prompt(questions)
-    .then((data) => {
-        writeToFile('README.md', generateMarkdown(data));
-    });
+        .then((data) => {
+            writeToFile('README.md', utilityFunctions.generateMarkdown(data));
+        });
 }
 
+init();
+
+
 // function call to initialize program
-init(); 
+
 
